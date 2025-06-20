@@ -11,6 +11,8 @@ There are two ways to work through the materials.
 2. **If you are working from Colab**
    1. Open the notebook on Google Colab my clicking on a link below corresponding to the notebook.
 
+**NOTE ON THE COLAB OPTION**: Progress is NOT automatically saved on your Drive or your computer. To save the file, navigate to `File > Save a Copy in Drive`. Once you do, a new tab will appear with the copy. You can save the progress throughout the workshop by `ctrl + s` (if you're on Windows) or `cmd + s` (if you're on macOS). You can find the saved copy in the `Colab Notebooks/` directory. 
+
 ## Google Colab Links
 
 [Day 1 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1.ipynb)
@@ -28,3 +30,14 @@ There are two ways to work through the materials.
 [Day 2 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz.ipynb)
 
 [Day 2 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz-answers.ipynb)
+
+Day 3 Lecture
+
+Day 3 Lecture Answers
+
+Day 3 Quiz
+
+Day 3 Quiz Answers
+
+
+
