@@ -31,21 +31,21 @@ There are two ways to work through the materials.
 
 [Part 2 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz-answers.ipynb)
 
-Part 3 Lecture
+[Part 3 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part3.ipynb)
 
-Part 3 Lecture Answers
+[Part 3 Lecture Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part3-answers.ipynb)
 
-Part 3 Quiz
+[Part 3 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part3Quiz.ipynb)
 
-Part 3 Quiz Answers
+[Part 3 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part3Quiz-answers.ipynb)
 
-Part 4 Lecture
+[Part 4 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part4.ipynb)
 
-Part 4 Lecture Answers
+[Part 4 Lecture Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part4-answers.ipynb)
 
-Part 4 Quiz
+[Part 4 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part4Quiz.ipynb)
 
-Part 4 Quiz Answers
+[Part 4 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part4Quiz-answers.ipynb)
 
 
 
