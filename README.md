@@ -15,29 +15,37 @@ There are two ways to work through the materials.
 
 ## Google Colab Links
 
-[Day 1 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1.ipynb)
+[Part 1 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1.ipynb)
 
-[Day 1 Lecture Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1-answers.ipynb)
+[Part 1 Lecture Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1-answers.ipynb)
 
-[Day 1 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1Quiz.ipynb)
+[Part 1 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1Quiz.ipynb)
 
-[Day 1 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1Quiz-answers.ipynb)
+[Part 1 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part1Quiz-answers.ipynb)
 
-[Day 2 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2.ipynb)
+[Part 2 Lecture](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2.ipynb)
 
-[Day 2 Lecture Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2-answers.ipynb)
+[Part 2 Lecture Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2-answers.ipynb)
 
-[Day 2 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz.ipynb)
+[Part 2 Quiz](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz.ipynb)
 
-[Day 2 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz-answers.ipynb)
+[Part 2 Quiz Answers](https://colab.research.google.com/github/nuitrcs/python_fundamentals_june2025_chicago/blob/main/part2Quiz-answers.ipynb)
 
-Day 3 Lecture
+Part 3 Lecture
 
-Day 3 Lecture Answers
+Part 3 Lecture Answers
 
-Day 3 Quiz
+Part 3 Quiz
 
-Day 3 Quiz Answers
+Part 3 Quiz Answers
+
+Part 4 Lecture
+
+Part 4 Lecture Answers
+
+Part 4 Quiz
+
+Part 4 Quiz Answers
 
 
 
